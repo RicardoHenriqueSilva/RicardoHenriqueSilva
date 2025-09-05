@@ -1,4 +1,5 @@
 Olá! Eu sou o Ricardo Henrique 🤓👋
+
 Sou um Especialista em Soluções de Dados focado em transformar desafios de negócio em sistemas de dados automatizados e inteligentes. Minha paixão é construir pipelines de dados ponta a ponta, desde a arquitetura na nuvem até a criação de aplicações e dashboards que geram valor real.
 
 Tecnologias e Ferramentas
